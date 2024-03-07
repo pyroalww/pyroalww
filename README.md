@@ -32,6 +32,8 @@ Description: A simple utility for copying websites locally for offline viewing.
 
 Visual Studio Code
 
+## Community discord server
+- Join: [discord.gg](https://discord.gg/xN6fqNTbEa) (Old 8k one banned :( )
 
 ## Contact Information
 
