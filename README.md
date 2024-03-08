@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 ## Portfoilo web site
--  [pyroalww.com](https:/pyroalww.github.io/pyroalw)
+-  [pyroalww.com](pyroalww.github.io/pyroalw)
 ## Projects
 
 ### [autofsrmod](https://github.com/pyroalww/autofsrmod)
