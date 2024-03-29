@@ -11,7 +11,7 @@ Description: A tool for automating the process of updating fsrmod on devices.
 ### [px](https://github.com/pyroalww/px)
 Description: A python based shell that boasts a wide array of advanced functionalities and capabilities!
 
-### [OnlinePad](https://github.com/pyroalww/pyroxy](https://github.com/pyroalww/OnlinePad)
+### [OnlinePad](https://github.com/pyroalww/OnlinePad)
 Description: OnlinePad is a feature-rich web-based notepad application designed to streamline the process of note-taking and organization. 
 
 ### [pyroxy](https://github.com/pyroalww/pyroxy)
