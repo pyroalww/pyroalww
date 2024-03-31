@@ -20,6 +20,9 @@ Description: A Python-based proxy scraper and validator.
 ### [useragentgenerator](https://github.com/pyroalww/useragentgenerator)
 Description: A tool for generating user-agent strings for web scraping and automation.
 
+### [Download Time Calculator](https://github.com/pyroalww/downloadtimecalculator)
+Description: Calculate the estimated time required to download a file based on its size and your internet speed.
+
 ### [websitecopier](https://github.com/pyroalww/websitecopier)
 Description: A simple utility for copying websites locally for offline viewing.
 
