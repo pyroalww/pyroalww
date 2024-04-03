@@ -23,6 +23,9 @@ Description: A tool for generating user-agent strings for web scraping and autom
 ### [Download Time Calculator](https://github.com/pyroalww/downloadtimecalculator)
 Description: Calculate the estimated time required to download a file based on its size and your internet speed.
 
+### [HashCheck](https://github.com/pyroalww/HashCheck/tree/main)
+Description: HashCheck is a Python application designed to compute and verify hash values of files using various hash algorithms. It provides a simple GUI interface for users to select files, choose hash algorithms, and compare hash values
+
 ### [websitecopier](https://github.com/pyroalww/websitecopier)
 Description: A simple utility for copying websites locally for offline viewing.
 
