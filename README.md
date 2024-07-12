@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 ## Portfoilo web site
--  [pyroalww.com](pyroalww.github.io/pyroalw)
+-  [pyrollc.com](https://pyrollc.com.tr)
 ## Projects
 
 ### [autofsrmod](https://github.com/pyroalww/autofsrmod)
@@ -11,7 +11,7 @@ Description: A tool for automating the process of updating fsrmod on devices.
 ### [px](https://github.com/pyroalww/px)
 Description: A python based shell that boasts a wide array of advanced functionalities and capabilities!
 
-### [Remote Control Tool](https://github.com/pyroalww/px](https://github.com/pyroalww/remote-control-tool)
+### [Remote Control Tool](https://github.com/pyroalww/remote-control-tool)
 Description: Control any PC with a Discord Bot. 
 
 ### [OnlinePad](https://github.com/pyroalww/OnlinePad)
