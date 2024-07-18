@@ -14,11 +14,14 @@ Description: A python based shell that boasts a wide array of advanced functiona
 ### [Remote Control Tool](https://github.com/pyroalww/remote-control-tool)
 Description: Control any PC with a Discord Bot. 
 
-### [OnlinePad](https://github.com/pyroalww/OnlinePad)
-Description: OnlinePad is a feature-rich web-based notepad application designed to streamline the process of note-taking and organization. 
+### [Codedit](https://github.com/pyroalww/Codedit)
+Description: Codedit is a feature-rich code editor developed with Python and PyQt5, designed to offer a streamlined and modern coding experience. This editor includes syntax highlighting, line numbering, file management, project management, and Git integration, among other features.
 
 ### [Forum-Backend](https://github.com/pyroalww/Forum-Backend)
 Description: Ddos-protected forum website backend with advanced features and database system.
+
+### [OnlinePad](https://github.com/pyroalww/OnlinePad)
+Description: OnlinePad is a feature-rich web-based notepad application designed to streamline the process of note-taking and organization. 
 
 ### [pyroxy](https://github.com/pyroalww/pyroxy)
 Description: A Python-based proxy scraper and validator.
