@@ -17,6 +17,9 @@ Description: Control any PC with a Discord Bot.
 ### [Codedit](https://github.com/pyroalww/Codedit)
 Description: Codedit is a feature-rich code editor developed with Python and PyQt5, designed to offer a streamlined and modern coding experience. This editor includes syntax highlighting, line numbering, file management, project management, and Git integration, among other features.
 
+### [GenAI-Client](https://github.com/pyroalww/genai-client)
+Description: Free Google Gemini AI UI.
+
 ### [Forum-Backend](https://github.com/pyroalww/Forum-Backend)
 Description: Ddos-protected forum website backend with advanced features and database system.
 
