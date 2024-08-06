@@ -5,6 +5,9 @@ Welcome to my profile!
 -  [pyrollc.com](https://pyrollc.com.tr)
 ## Projects
 
+### [FullBench](https://github.com/pyroalww/FullBench)
+Description: FullBench is not your average benchmarking tool. It's a Python script crafted for those who crave a thorough understanding of their computer's capabilities. It goes beyond simplistic scores, offering a multifaceted analysis of how your CPU, GPU, memory, storage, and network perform under various realistic workloads.
+
 ### [autofsrmod](https://github.com/pyroalww/autofsrmod)
 Description: A tool for automating the process of updating fsrmod on devices.
 
